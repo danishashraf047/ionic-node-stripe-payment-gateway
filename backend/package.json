@@ -1,0 +1,19 @@
+{
+    "name": "ionic-node-stripe-payment-gateway-backend",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": {
+        "name": "Danish Ashraf",
+        "email": "me@danishashraf.net",
+        "url": "https://danishashraf.net"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1",
+        "stripe": "^9.6.0"
+    }
+}

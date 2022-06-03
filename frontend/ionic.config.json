@@ -1,0 +1,7 @@
+{
+  "name": "ionic-node-stripe-payment-gateway-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
