@@ -1,5 +1,5 @@
 # ionic-node-stripe-payment-gateway
 
-## Demo
+## Walkthrough
 
-[![](demo-test.gif)](demo-test.gif)
+[![](walkthrough.gif)](walkthrough.gif)
