@@ -2,4 +2,4 @@
 
 ## Demo
 
-[![](demo.gif)](demo.gif)
+[![](demo-test.gif)](demo-test.gif)
